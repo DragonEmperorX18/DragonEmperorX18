@@ -35,16 +35,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Avidesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonEmperorX18&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/avidesh-kumar-a-48a0431b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM6MMVtB7SOG3ZWUoBNFrkg%3D%3D
+- 📧 Email: avidesh.kumar.a.18@example.com
 
 ---
 
